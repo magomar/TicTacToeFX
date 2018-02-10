@@ -1,0 +1,12 @@
+/* 
+    Created on : 10-feb-2018, 11:21:42
+    Author     : mario
+*/
+
+.root, .dialog-pane, .button {
+    -fx-font: 16pt Tahoma;
+}
+
+.app-title {
+    -fx-font-size: 36pt;
+}
